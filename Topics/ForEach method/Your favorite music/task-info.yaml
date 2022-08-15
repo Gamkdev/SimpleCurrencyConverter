@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    const music = ["rock", "pop", "hip-hop", "electronic"];
+
+    function myFavoriteMusic(music) {
+      // write your code
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10141#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 14 Aug 2022 22:38:14 UTC
+record: -1
